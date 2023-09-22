@@ -1,0 +1,6 @@
+
+Z
+java:S1854"8Remove this useless assignment to local variable "ints".(ÏÑ‹Óıÿÿÿÿ8ÑŠ¡é«1
+K
+java:S1481")Remove this unused "ints" local variable.(ÏÑ‹Óıÿÿÿÿ8ÒŠ¡é«1
+G	java:S106"+Replace this use of System.out by a logger.(Îóÿ8ÒŠ¡é«1
